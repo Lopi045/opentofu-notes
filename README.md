@@ -17,3 +17,7 @@ An Obsidian vault for learning and reference — covers OpenTofu (the open-sourc
 Open the folder as an Obsidian vault. Start from `Open Tofu.md` (the index note).
 
 The Templates plugin is pre-configured to use `_templates/` — enable it in Obsidian settings to insert templates with a slash command.
+
+## Index
+
+Start here: **[Open Tofu.md](Open%20Tofu.md)** — the index note linking to all concepts, commands, files, and providers.
